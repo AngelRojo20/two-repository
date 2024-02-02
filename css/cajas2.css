@@ -40,3 +40,9 @@ div{
     border-bottom-right-radius: 75px;
     margin-bottom: 1cm;
 }
+
+.caja5{
+    width: 30%;
+    background-color: green;
+    border: 4px groove blueviolet;
+}
