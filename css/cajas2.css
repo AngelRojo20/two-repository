@@ -14,3 +14,11 @@ div{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
+.caja2{
+    width: 100%;
+    background-color: blue;
+    border-radius: 20px;
+    border: 4px dashed red;
+    margin-bottom: 1mm;
+}
