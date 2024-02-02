@@ -22,3 +22,11 @@ div{
     border: 4px dashed red;
     margin-bottom: 1mm;
 }
+
+.caja3{
+    width: 20%;
+    background-color: purple;
+    border: 4px solid gold;
+    margin-left: 40%;
+    margin-bottom: 1cm;
+}
