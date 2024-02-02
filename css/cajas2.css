@@ -46,3 +46,12 @@ div{
     background-color: green;
     border: 4px groove blueviolet;
 }
+
+.caja6{
+    width: 20%;
+    background-color: aquamarine;
+    border: 4px ridge salmon;
+    margin-left:78%;
+    border-top-left-radius: 75px;
+    border-bottom-left-radius: 75px;
+}
