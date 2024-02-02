@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+
+div{
+    height: 20%;
+}
+
+.caja1 {
+    width: 25%;
+    border: 4px dotted black;
+    margin-bottom: 1cm;
+    background-image: url("foto.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
