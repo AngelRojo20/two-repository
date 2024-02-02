@@ -30,3 +30,13 @@ div{
     margin-left: 40%;
     margin-bottom: 1cm;
 }
+
+.caja4{
+    width: 20%;
+    background-color: brown;
+    border: 4px double white;
+    margin-left:80%;
+    border-top-right-radius: 75px;
+    border-bottom-right-radius: 75px;
+    margin-bottom: 1cm;
+}
